@@ -1,6 +1,7 @@
 # Hi, I'm Yanis 👋
 
 Master 1 student in **Data, Knowledge and Hybrid AI** at Université Paris-Saclay, with two data science internships at Givaudan behind me.
+Before that, I graduated from **Audencia and Centrale Nantes** (BBA Data, IA & Management, 2022 to 2026), with exchanges at Centrale Casablanca and Shenzhen University.
 I build with LLMs, embeddings and Python, and I'm **looking for a 2 to 3 month internship in Paris, summer 2027** (data science / AI engineering).
 
 ## What I work on
